@@ -21,7 +21,7 @@ export default function Home() {
           </p>
           <SubscribeButton />
         </section>
-        <img src="" alt="" />
+        <img src="../assets/mulher.svg" alt="Girl Coding" />
       </main>
     </>
   )
