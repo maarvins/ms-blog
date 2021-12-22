@@ -16,7 +16,7 @@ export default function Home({product}: HomeProps) {
   return (
     <>
       <Head>
-        <title>Home | MS Blog</title>
+        <title> Home | MS Blog </title>
       </Head>
       <main className={styles.contentContainer}>
         <section className={styles.hero}>
